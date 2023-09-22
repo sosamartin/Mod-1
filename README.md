@@ -1,5 +1,4 @@
 # Mod-1
-# 09/21/2023
 
 ## Overview and Origin
 
